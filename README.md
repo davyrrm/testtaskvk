@@ -1,8 +1,4 @@
-VK Mini App
-
 Это тестовое задание на позицию QA в группу веб- и бэкенд-тестирования VK Mini Apps.
-
-![VK Mini App](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/iphone_1f4f1.png)
 
 ## Описание
 
